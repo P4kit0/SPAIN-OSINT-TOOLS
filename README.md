@@ -1,6 +1,6 @@
-# Mejores Herramientas y Recursos de OSINT
+# Herramientas y Recursos de OSINT
 
-![OSINT](https://github.com/your-username/your-repo/blob/main/osint_image.jpg)
+
 
 ## Descripción
 
