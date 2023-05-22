@@ -4,9 +4,9 @@
 
 ## Descripción
 
-¡Bienvenido al repositorio de Mejores Herramientas y Recursos de OSINT! Este repositorio es una recopilación seleccionada de las herramientas y recursos de Inteligencia de Fuentes Abiertas (OSINT) más potentes y útiles disponibles.
+¡Bienvenido al repositorio de  Herramientas y Recursos de OSINT en Español! Este repositorio es una recopilación seleccionada de las herramientas y recursos de Inteligencia de Fuentes Abiertas (OSINT) más potentes y útiles disponibles.
 
-La Inteligencia de Fuentes Abiertas es una disciplina valiosa que implica recopilar información de fuentes públicamente disponibles para obtener conocimientos, descubrir conexiones ocultas y respaldar investigaciones. Ya seas un profesional de ciberseguridad, investigador, periodista o simplemente tienes curiosidad por el mundo de OSINT, este repositorio tiene algo para ti.
+La Inteligencia de Fuentes Abiertas es una disciplina valiosa que implica recopilar información de fuentes públicamente disponibles para obtener conocimientos, descubrir conexiones ocultas y repaldar investigaciones. Ya seas un profesional de ciberseguridad, investigador, periodista o simplemente tienes curiosidad por el mundo de OSINT, este repositorio tiene algo para ti.
 
 ## Características principales
 
